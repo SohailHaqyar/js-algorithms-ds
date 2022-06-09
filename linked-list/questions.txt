@@ -1,0 +1,2 @@
+- Why use so many pointers to do a linked list in JS. Can you do it without pointers? 
+
